@@ -35,3 +35,5 @@ goku = Peleador("goku", 1000 ,700 ,2000)
 majinboo = Peleador("majinboo",800 ,500 ,2000)
 
 pelea = Batalla(goku, majinboo)
+
+print("trabajo sobre RAMA-TEST")
